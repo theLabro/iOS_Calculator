@@ -1,8 +1,8 @@
-# 📱 iOS 16 Calculator Clone (HTML/CSS/JavaScript)
+# 📱 iOS Calculator Clone (HTML/CSS/JavaScript)
 <div>
     <img src=assets/images/calculator.png alt=ios-calculator align=left height=600px>
     <h3>Project Summary</h3>
-    <p>A pixel-perfect clone of the iOS 16 Calculator built using HTML, CSS, and JavaScript. This project replicates the look and functionality of the iPhone's native calculator app using only front-end web technologies.</p>
+    <p>A pixel-perfect clone of the iOS Calculator built using HTML, CSS, and JavaScript. This project replicates the look and functionality of the iPhone's native calculator app using only front-end web technologies.</p>
     <h3>🚀 Features</h3>
     <p><ul><b>Fully functional calculator with:</b></ul>
        <li> Addition, subtraction, multiplication, division</li>
